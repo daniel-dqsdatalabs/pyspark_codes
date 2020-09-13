@@ -1,2 +1,2 @@
 # python_fundamentals
-Here are some of my own recollections on python
+Here are some of my own recollections on python, ETL and pyspark.
